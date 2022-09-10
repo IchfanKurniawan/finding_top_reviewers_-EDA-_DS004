@@ -2,14 +2,19 @@
 Finding the top reviewers from the steam game platform
 
 ### Problem Statement
-To make the community in the steam game platform more active, reviews from earlier access user are useful for others to give an early descriptions & experiences about the game and also for game developers it will be essential to fix & develop a better game performances. So, we should give the top reviewers incentives (e.g. early access, voucher, etc) ... and in the future it could be beneficial for the steam game platform.
+To make the community in the steam game platform more active, reviews from earlier access user are needed, becuase they are useful for others to give an early descriptions & experiences about the game and also for game developers it will be essential to fix & develop a better game performances. So, we should give the top reviewers incentives (e.g. early access, voucher, etc) for encouragement & appreciations ... and in the future it could be beneficial for the steam game platform.
 
 ### Needs
 - We need to find who are the top reviewers.
 - Take a look at the distribution of the top reviewers attributes.
+- Take a look at the distribution of comments written by top reviewers.
 
 ### Data Exploration
-The data exploration you could check in the notebook above. I used plotly for visualization of some data because it is quite handy and also interactive.
+The data exploration you could check in the notebooks above. I used plotly for visualization tasks. Plotly is quite handy and also interactive too.
+
+### Key Findings
+- Most of the user only wrote 1 review (92,47%). Of course we don't want this and it is out of top reviewers criteria. Take a look at the pareto chart below.
+![pareto chart](./assets/review_pareto.svg)
 
 ### Acknowledgements
 This quick project is inspired by [Shashank Kalanithi](https://www.youtube.com/c/ShashankKalanithiData)
