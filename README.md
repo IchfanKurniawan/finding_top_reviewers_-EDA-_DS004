@@ -50,7 +50,7 @@ The data exploration you could check in the notebooks above. I used plotly for v
 
 
 - and most of **reviews written not in early access phase (77.52%)**.
-![pareto chart](./assets/8review_earlyaccess_reviewers..png)
+![pareto chart](./assets/8review_earlyaccess_reviewers.png)
 
 
 ### Acknowledgements
