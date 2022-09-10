@@ -14,6 +14,7 @@ The data exploration you could check in the notebooks above. I used plotly for v
 
 ### Key Findings
 - Most of the user only wrote 1 review (92,47%). Of course we don't want this and it is out of top reviewers criteria. Take a look at the pareto chart below.
+<br>
 ![pareto chart](./assets/review_pareto.svg)
 
 ### Acknowledgements
