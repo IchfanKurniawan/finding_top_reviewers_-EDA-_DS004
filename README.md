@@ -1,5 +1,5 @@
-# finding_top_reviewers_-EDA-_DS004
-Finding the top reviewers from the steam game platform
+# Finding_top_reviewer_EDA_DS004
+Finding the top reviewers from the steam game platform (Data Cleaning, Exploratory Data Analysis, Feature Engineering)
 
 ### Problem Statement
 To make the community in the steam game platform more active, reviews from earlier access user are needed, becuase they are useful for others to give an early descriptions & experiences about the game and also for game developers it will be essential to fix & develop a better game performances. So, we should give the top reviewers incentives (e.g. early access, voucher, etc) for encouragement & appreciations ... and in the future it could be beneficial for the steam game platform.
